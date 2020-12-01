@@ -10,6 +10,7 @@
 *~
 *.sass-cache
 node_modules/
+photoshop-source/
 .tmp/
 
 # OS or Editor folders
