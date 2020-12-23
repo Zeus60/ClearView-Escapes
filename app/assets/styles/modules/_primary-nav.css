@@ -38,13 +38,13 @@
   }
 
   a {
-    text-decoration: none;
-    font-weight: 300;
     color: #fff;
+    font-size: 0.8rem;
+    font-weight: 300;
+    text-decoration: none;
     display: block;
     padding: 5px 8px;
     background-color: rgba($mainBlue, 0.5);
-    font-size: 0.8rem;
 
     @mixin atMedium {
       font-size: 1rem;
