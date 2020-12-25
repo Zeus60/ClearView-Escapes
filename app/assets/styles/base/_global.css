@@ -1,5 +1,9 @@
+html {
+  scroll-behavior: smooth;
+}
+
 * {
-  /* these styles apply to everthing on the page */
+  /* these styles apply to everything on the page */
   box-sizing: border-box;
 }
 
